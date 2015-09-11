@@ -1,10 +1,9 @@
-DOCKER_NAMESPACE =	armbuild/
-NAME =			scw-app-mysql
+NAME =			mysql
 VERSION =		latest
 VERSION_ALIASES =
 TITLE =			MySQL
 DESCRIPTION =		MySQL
-SOURCE_URL =		https://github.com/scaleway/image-app-mysql
+SOURCE_URL =		https://github.com/scaleway-community/scaleway-mysql
 
 IMAGE_VOLUME_SIZE =	50G
 IMAGE_BOOTSCRIPT =	stable
