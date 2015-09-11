@@ -1,5 +1,5 @@
-## -*- docker-image-name: "armbuild/scw-app-mysql:latest" -*-
-FROM armbuild/scw-distrib-ubuntu:trusty
+## -*- docker-image-name: "scaleway/mysql:latest" -*-
+FROM scaleway/ubuntu:trusty
 MAINTAINER Scaleway <opensource@scaleway.com> (@scaleway)
 
 
